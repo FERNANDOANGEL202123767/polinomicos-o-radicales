@@ -1,6 +1,6 @@
 % Octave Script
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
-%Specialty             :Ingeniería en Sistemas Computacionales 
+%Specialty             :IngenierÃ­a en Sistemas Computacionales 
 % Title                :Funcion polinominal o racional
 % Description          :Script de ejercicios polinominal 
 % Author               :fernando angel
@@ -14,4 +14,4 @@ x=[-10:1:10]
 fx=((x.^3)-(6.*x.^2)+(11.*x)-(6))
 plot(x,fx)
 grid on;
-title("Radical");
+title("polinomio f(x)=(0,-6)");
